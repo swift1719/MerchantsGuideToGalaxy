@@ -44,4 +44,4 @@ glob prok Iron is 782 Credits
 I have no idea what you are talking about
 ```
 
-Original Problem Link : [Merchants Guide To The Galaxy](https://codereview.stackexchange.com/questions/142409/merchants-guide-to-galaxy-challenge)
+Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.com/question?id=4904931328786432)
