@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MerchantsGuideToGalaxy
 {
-    internal class GalacticNumberSystem
+    public class GalacticNumberSystem
     {
         private Dictionary<string, RomanDigit> _aliases = new Dictionary<string, RomanDigit>();
 
@@ -24,7 +24,7 @@ namespace MerchantsGuideToGalaxy
         {
             int result = 0;
 
-            var digits = number.Split('.').Select(GetAlias).ToArray();
+            var digits = number.Split(' ').Select(GetAlias).ToArray();
 
             if (digits.Length == 1)
             {
