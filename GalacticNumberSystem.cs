@@ -8,7 +8,7 @@ namespace MerchantsGuideToGalaxy
 {
     public class GalacticNumberSystem
     {
-        private Dictionary<string, RomanDigit> _aliases = new Dictionary<string, RomanDigit>();
+        private readonly Dictionary<string, RomanDigit> _aliases = new Dictionary<string, RomanDigit>();
 
         public void SetAlias(string alias, RomanDigit digit)
         {

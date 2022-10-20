@@ -20,7 +20,7 @@ namespace MerchantsGuideToGalaxy
         public void Train(Merchant merchant)
         {
             var quantityInDecimal = merchant.GalacticNumber.GetDecimalValue(QuantityInGalacticSystem);
-            var unitPrice = ValueInCredits/quantityInDecimal;
+            float unitPrice = ValueInCredits/(float)quantityInDecimal;
             merchant.Prices.AddProduct(new Product(ProductName, unitPrice));
         }
     }
