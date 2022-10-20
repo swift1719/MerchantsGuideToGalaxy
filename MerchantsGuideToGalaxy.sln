@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MerchantsGuideToGalaxy", "MerchantsGuideToGalaxy.csproj", "{862CC841-7C73-4091-8907-25C51150666B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOG_Tests", "..\MOG_Tests\MOG_Tests.csproj", "{EB559E08-D83D-444F-AC5A-5712F2CAC732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{862CC841-7C73-4091-8907-25C51150666B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862CC841-7C73-4091-8907-25C51150666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862CC841-7C73-4091-8907-25C51150666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862CC841-7C73-4091-8907-25C51150666B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB559E08-D83D-444F-AC5A-5712F2CAC732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB559E08-D83D-444F-AC5A-5712F2CAC732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB559E08-D83D-444F-AC5A-5712F2CAC732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB559E08-D83D-444F-AC5A-5712F2CAC732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59725E69-99FB-4124-A25A-BC4758641FE3}
+	EndGlobalSection
+EndGlobal
