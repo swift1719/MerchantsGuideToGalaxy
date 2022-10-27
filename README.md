@@ -47,8 +47,5 @@ I have no idea what you are talking about
 Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.com/question?id=4904931328786432)
 
 
+https://zoom.us/rec/share/IlHdAhf1SmP36-ggk4jI32i9jUPstaJqiggblIA4ZronUYnUl_J8imIKUwADRklS.h3eX7w3bUtHIcu3s
 
-https://zoom.us/rec/play/UKKYiZVFhbCsQk1ABIeDrB4ToUrwSTvK7lFCTm4VIyInSM7VvGUOWhNJNq-bO3Y7qZBg2yX7CsJmLlda.eSuidtuFBGvFhJUL
-https://zoom.us/rec/share/3WMemToJwjuqIQnMR3PSnLk97_iq4uRlkJkh9I7Mo0DzMkHHO0iG4vfOQEftb9kz.8N5qbKtULQ36BgO0
-https://zoom.us/rec/share/1VdhWzxvB59FG2BpZ4TShseOBWqPwpk_mYSKrRsH71Fy5BjcXufUMZT7OIeZtI14.gJhtJek3DmM_PWo0
-https://zoom.us/rec/share/Tfj84HJtqSFcz03uYa5MiP9ViEwlTBuaXql6k5wQ3PJEj1vEM8y6Ekjg8I_yhVOG.pT2A_GMzgSX8d_q-
