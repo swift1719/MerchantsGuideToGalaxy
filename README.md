@@ -47,5 +47,10 @@ I have no idea what you are talking about
 Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.com/question?id=4904931328786432)
 
 
-https://zoom.us/rec/share/IlHdAhf1SmP36-ggk4jI32i9jUPstaJqiggblIA4ZronUYnUl_J8imIKUwADRklS.h3eX7w3bUtHIcu3s
+Maths 25/10: https://zoom.us/rec/share/AtOSLgMn5XvSq5Zu0ZONY4RiS8dPxvKVxk9P1VJCpIchhCnV7WzaM1oqKTyUw_Ci.Ar_tkIo0fnAJVUzu
+      26/10: https://zoom.us/rec/share/rsC8_v-6CoV57uGighbhgg7c3Bj3iup9_FzZ458OeJKC58DLuttylIjf7rsqt4QP.mPkVjf5jWKZb8Gu4
+      27/10: https://zoom.us/rec/share/wLf7RzAZvZAHnVr8JflfF8MEUCZr4XPC7d3C_5elSmWlroCf7VLzwV2X-fXCv8Wz.ehiuAtIS-7UJkT2s
+      28/10: https://zoom.us/rec/share/oAfpVAcDpl7tsSpMbxXZ4V56E6QJXaAQbM_KVsl2hKEIwgat5d_3EcehiXA0g0E7.OLN8LYM_SP_GI9li
 
+English 27/10: https://zoom.us/rec/share/ImJjJ2QxJv5F9r3ACXeZE1Dtc8C0NsKALu2_Yxcrvvq8OaDqo8bl16KK0NHnPoA1.1biBdEImfmXgHXf3
+        28/10: https://zoom.us/rec/share/bqhdtpucCTahllGzwth2jOOUe6ste8x1LsAyIOJRTy2Yv9giJGZBhWYqilgWx7kI.t5KjxeDDCGYvBpVo
