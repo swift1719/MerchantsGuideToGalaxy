@@ -47,6 +47,7 @@ I have no idea what you are talking about
 Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.com/question?id=4904931328786432)
 
 https://zoom.us/rec/share/XpRaJriJfF6NCM-sVQuETgR_VQFOYhHI0WpyC2Zeq2tLVEUrnI1CduSiSfrf46G_.Tdcj7L_wjuuhWyaE
+Geo Test Ans: https://zoom.us/rec/share/lL2EWKq5EFme9IQ6q6fMwGSRcITCvF-yyMbzPchYxmR3Q2fAWay-AsDnFMJbBOt1.hLCtwI_zhPhzc99z
 
 
 Maths 25/10: https://zoom.us/rec/share/AtOSLgMn5XvSq5Zu0ZONY4RiS8dPxvKVxk9P1VJCpIchhCnV7WzaM1oqKTyUw_Ci.Ar_tkIo0fnAJVUzu
