@@ -46,14 +46,29 @@ I have no idea what you are talking about
 
 Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.com/question?id=4904931328786432)
 
-https://zoom.us/rec/share/XpRaJriJfF6NCM-sVQuETgR_VQFOYhHI0WpyC2Zeq2tLVEUrnI1CduSiSfrf46G_.Tdcj7L_wjuuhWyaE
-Geo Test Ans: https://zoom.us/rec/share/lL2EWKq5EFme9IQ6q6fMwGSRcITCvF-yyMbzPchYxmR3Q2fAWay-AsDnFMJbBOt1.hLCtwI_zhPhzc99z
 
-
-Maths 25/10: https://zoom.us/rec/share/AtOSLgMn5XvSq5Zu0ZONY4RiS8dPxvKVxk9P1VJCpIchhCnV7WzaM1oqKTyUw_Ci.Ar_tkIo0fnAJVUzu
-      26/10: https://zoom.us/rec/share/rsC8_v-6CoV57uGighbhgg7c3Bj3iup9_FzZ458OeJKC58DLuttylIjf7rsqt4QP.mPkVjf5jWKZb8Gu4
+Maths 
       27/10: https://zoom.us/rec/share/wLf7RzAZvZAHnVr8JflfF8MEUCZr4XPC7d3C_5elSmWlroCf7VLzwV2X-fXCv8Wz.ehiuAtIS-7UJkT2s
       28/10: https://zoom.us/rec/share/oAfpVAcDpl7tsSpMbxXZ4V56E6QJXaAQbM_KVsl2hKEIwgat5d_3EcehiXA0g0E7.OLN8LYM_SP_GI9li
 
-English 27/10: https://zoom.us/rec/share/ImJjJ2QxJv5F9r3ACXeZE1Dtc8C0NsKALu2_Yxcrvvq8OaDqo8bl16KK0NHnPoA1.1biBdEImfmXgHXf3
-        28/10: https://zoom.us/rec/share/bqhdtpucCTahllGzwth2jOOUe6ste8x1LsAyIOJRTy2Yv9giJGZBhWYqilgWx7kI.t5KjxeDDCGYvBpVo
+
+31/10: https://zoom.us/rec/share/PyLmU5MXI4pnLLLEFKWDgjTgBuK12rdFbSMH---O6whKtyJxnDN4e3jSSuSohVI9.0_P9bt8-DDIn27p7
+
+1/11: https://zoom.us/rec/share/SRSPXHBstNs2dw5oO4-6gBA-Q1s7J6TZxJX0E5jYVrk3lR_p7IqzrPhKICj8qYpC.q4jmuEJbCE4N8-Mj
+
+2/11: https://drive.google.com/file/d/1a6vJBWsMLZM2z6zDi-1fgh8h4POllZmt/view
+
+3/11: https://zoom.us/rec/share/OyccnybvpIQLcyOa1R5lNJtkVmZaIFWBUsISrtDI-W26P9-3E4b-ALFX2TYIfp6v.MkTYkdLC5XwDnWAp
+
+4/11; https://zoom.us/rec/share/2WWtIeN7cmNXhwtVRErboEj7R2r7cjZ-fe2c6o7vcASNLS_ciiW_AKF32W3oN4b0.y2dehaGfRDTeWj3b
+ 
+
+English 27/10: https://zoom.us/rec/share/lNVb6aRSNdzcSNq25UpTbekeiZd1v3zdGPwJWBwwLTHniODdHtWxDqazcOaiU5_K.GBWI4hcaWlAsFXk6
+
+        28/10: https://zoom.us/rec/share/UHIS-kQCkoPRvWDl2McyKrohEX7vyK648RZ57TENuTCWGVPxoYcLs_wZ2671J4mL.mV5Z342w1mv0Rh6l
+
+        2/11 : https://zoom.us/rec/share/D9Mpp7BPqgSsqbKbMOkEq32s46qOokDJWnuhyuoTdwj-u915z07hezCcFKdTK_QP.pk19OQkBUtm3WjfY
+
+3/11: https://zoom.us/rec/share/qAvBPLJXHnRNQcHrfMQElmZDrMQA9jfZoPQS2w1OntaLVoGOPfeXI05uK37kazmX.UzSdhjIlgKkkJjFn
+
+4/11: https://zoom.us/rec/share/ZPF4Ql5ineARiHJlj6Qkb_Ae1Yskb3EkLqTvve9MVYb-zCP41BAdNoLT8Pw4eXjH.oQX8X5pjm5uLqZt4
