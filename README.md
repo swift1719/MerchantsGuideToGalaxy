@@ -47,12 +47,7 @@ I have no idea what you are talking about
 Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.com/question?id=4904931328786432)
 
 
-Maths 
-      27/10: https://zoom.us/rec/share/wLf7RzAZvZAHnVr8JflfF8MEUCZr4XPC7d3C_5elSmWlroCf7VLzwV2X-fXCv8Wz.ehiuAtIS-7UJkT2s
-      28/10: https://zoom.us/rec/share/oAfpVAcDpl7tsSpMbxXZ4V56E6QJXaAQbM_KVsl2hKEIwgat5d_3EcehiXA0g0E7.OLN8LYM_SP_GI9li
-
-
-31/10: https://zoom.us/rec/share/PyLmU5MXI4pnLLLEFKWDgjTgBuK12rdFbSMH---O6whKtyJxnDN4e3jSSuSohVI9.0_P9bt8-DDIn27p7
+## Maths 
 
 1/11: https://zoom.us/rec/share/SRSPXHBstNs2dw5oO4-6gBA-Q1s7J6TZxJX0E5jYVrk3lR_p7IqzrPhKICj8qYpC.q4jmuEJbCE4N8-Mj
 
@@ -63,7 +58,9 @@ Maths
 4/11; https://zoom.us/rec/share/2WWtIeN7cmNXhwtVRErboEj7R2r7cjZ-fe2c6o7vcASNLS_ciiW_AKF32W3oN4b0.y2dehaGfRDTeWj3b
  
 
-English 27/10: https://zoom.us/rec/share/lNVb6aRSNdzcSNq25UpTbekeiZd1v3zdGPwJWBwwLTHniODdHtWxDqazcOaiU5_K.GBWI4hcaWlAsFXk6
+## English 
+
+27/10: https://zoom.us/rec/share/lNVb6aRSNdzcSNq25UpTbekeiZd1v3zdGPwJWBwwLTHniODdHtWxDqazcOaiU5_K.GBWI4hcaWlAsFXk6
 
 
 28/10 : https://zoom.us/rec/share/UHIS-kQCkoPRvWDl2McyKrohEX7vyK648RZ57TENuTCWGVPxoYcLs_wZ2671J4mL.mV5Z342w1mv0Rh6l
