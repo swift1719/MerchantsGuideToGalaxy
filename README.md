@@ -72,3 +72,11 @@ Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.co
 3/11: https://zoom.us/rec/share/qAvBPLJXHnRNQcHrfMQElmZDrMQA9jfZoPQS2w1OntaLVoGOPfeXI05uK37kazmX.UzSdhjIlgKkkJjFn
 
 4/11: https://zoom.us/rec/share/ZPF4Ql5ineARiHJlj6Qkb_Ae1Yskb3EkLqTvve9MVYb-zCP41BAdNoLT8Pw4eXjH.oQX8X5pjm5uLqZt4
+
+7/11: https://zoom.us/rec/share/a1RsHkpDlbjQGBKjshCUocx9Qy5ZViko8QP_rnZFjSvPc0VyQ6r7Pmwx0MSyYTc.EOA1Bl7UkNYjEtbd
+
+8/11: https://zoom.us/rec/share/HbLsN1Lc6m7hbj6hFvxHjnZrFcuc7etSSL1KL9dZp3WpPGHqqe9ohjxyZKFM4jvH.19RE8njILIcDYoiI
+
+11/11: https://zoom.us/rec/share/VaNcGvpDvQe6P_m89HTNuEZ9AklAm6CyN23ueVExtYcwwOfboIsN-6JMJWhufm8_.hZyiY7sHtncCR0mg
+
+12/11 : https://zoom.us/rec/share/zpBy5hoRWAiRnMrJOf43XQjsiUDd3_FYBlYrdnESrB0bV7j3KbBFPy_UzAw_PGmM.fP_F2q8fm4-waSSK
