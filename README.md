@@ -49,14 +49,7 @@ Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.co
 
 ## Maths 
 
-1/11: https://zoom.us/rec/share/SRSPXHBstNs2dw5oO4-6gBA-Q1s7J6TZxJX0E5jYVrk3lR_p7IqzrPhKICj8qYpC.q4jmuEJbCE4N8-Mj
 
-2/11: https://drive.google.com/file/d/1a6vJBWsMLZM2z6zDi-1fgh8h4POllZmt/view
-
-3/11: https://zoom.us/rec/share/OyccnybvpIQLcyOa1R5lNJtkVmZaIFWBUsISrtDI-W26P9-3E4b-ALFX2TYIfp6v.MkTYkdLC5XwDnWAp
-
-4/11; https://zoom.us/rec/share/2WWtIeN7cmNXhwtVRErboEj7R2r7cjZ-fe2c6o7vcASNLS_ciiW_AKF32W3oN4b0.y2dehaGfRDTeWj3b
- 
 
 ## English 
 
