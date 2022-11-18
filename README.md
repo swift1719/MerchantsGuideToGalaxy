@@ -49,6 +49,15 @@ Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.co
 
 ## Maths 
 
+07/11: https://zoom.us/rec/share/4SqcsVX8JonjKBSAl9HGnLX0m5FvO-5Ns7eex4zKuIKysC1lFywu5i2CJcURqAI.ufgewZ1cZ4lx354D
+
+08/11: https://zoom.us/rec/share/eFtowi2KcWlM2_Qq1f0VecBEHBUtK0jHFcsVxCiSYqRIcRGGUjhZ85DrIqyA8A5M.XvW_t5fXgbBl_361
+
+09/11: https://zoom.us/rec/share/VUQ-I1zXe_HjN7VpTVd4NzJ4z--efAv3NOEmzM-FlQKiwzpd6e4VnGzX-6x5AN8t.Y9xlAKrRCQXo-H_E
+
+10/11: https://zoom.us/rec/play/DIq34-2gIKSdGoS-7lpMr76lhKroYUW-XwclU70LnSqtTjtN9ZoV5PM7v3V_N8-7Ya-PIajRgoNNnTs.kNhl5rOM5BtGugzn?continueMode=true&_x_zm_rtaid=Z9i8yTmHTFeD95GOFrYmsg.1668087898762.c1b421fb3021c49f2b7bef005a18eaa8&_x_zm_rhtaid=397&startTime=1668078024000
+
+11/11: https://zoom.us/rec/play/ECBCEQk4OILXlV_HdTd4QbA_Jsjan-Pph77A_TbDqCv8vV9tZrG_cAW4nQIRll1ChsOLrgT4mQiQLwNP.fUVR5GivL5IBXrDU?continueMode=true
 
 
 ## English 
