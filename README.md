@@ -49,15 +49,13 @@ Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.co
 
 ## Maths 
 
-07/11: https://zoom.us/rec/share/4SqcsVX8JonjKBSAl9HGnLX0m5FvO-5Ns7eex4zKuIKysC1lFywu5i2CJcURqAI.ufgewZ1cZ4lx354D
+14/11: https://zoom.us/rec/share/apJ61fGUuwGzfA-WfgeCqrzrH0DPXzNtOMi-ZPGwIvwJFoUj5vsKg7vRm-6xR1Oo.3lVGGRLR4EkaD8nG
 
-08/11: https://zoom.us/rec/share/eFtowi2KcWlM2_Qq1f0VecBEHBUtK0jHFcsVxCiSYqRIcRGGUjhZ85DrIqyA8A5M.XvW_t5fXgbBl_361
+17/11: https://zoom.us/rec/share/7Q4SNoNR0arwDHbsVp7MAWZ43Hfd2XfkKu-M1bJDbOd0WF9psvU2DICW9jnOAOyx.CfP75lu4bB9R0X0y
 
-09/11: https://zoom.us/rec/share/VUQ-I1zXe_HjN7VpTVd4NzJ4z--efAv3NOEmzM-FlQKiwzpd6e4VnGzX-6x5AN8t.Y9xlAKrRCQXo-H_E
+18/11: https://zoom.us/rec/share/yV3iDBIyXo3t5JGzs1NT2LOX8ucBm1EwubT79EDZGVwWgL5NQoiAUV51w_FivkAE.v-Yrgp_ORqCmDQSK
 
-10/11: https://zoom.us/rec/play/DIq34-2gIKSdGoS-7lpMr76lhKroYUW-XwclU70LnSqtTjtN9ZoV5PM7v3V_N8-7Ya-PIajRgoNNnTs.kNhl5rOM5BtGugzn?continueMode=true&_x_zm_rtaid=Z9i8yTmHTFeD95GOFrYmsg.1668087898762.c1b421fb3021c49f2b7bef005a18eaa8&_x_zm_rhtaid=397&startTime=1668078024000
-
-11/11: https://zoom.us/rec/play/ECBCEQk4OILXlV_HdTd4QbA_Jsjan-Pph77A_TbDqCv8vV9tZrG_cAW4nQIRll1ChsOLrgT4mQiQLwNP.fUVR5GivL5IBXrDU?continueMode=true
+19 /11: https://zoom.us/rec/share/-H11W6DY7q4v6TcDt4EGgFT52rLiyj0MDkjgVkoLnaNrKp3382V-Zs1P4BILVHwu.I2KIAdw1tUxCpuuC
 
 
 ## English 
@@ -80,3 +78,16 @@ Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.co
 11/11: https://zoom.us/rec/share/VaNcGvpDvQe6P_m89HTNuEZ9AklAm6CyN23ueVExtYcwwOfboIsN-6JMJWhufm8_.hZyiY7sHtncCR0mg
 
 12/11 : https://zoom.us/rec/share/zpBy5hoRWAiRnMrJOf43XQjsiUDd3_FYBlYrdnESrB0bV7j3KbBFPy_UzAw_PGmM.fP_F2q8fm4-waSSK
+
+14/11 : https://zoom.us/rec/share/MqiTf1AVf8Jlqf-Vg6NJ9QfFOdbqNoksuAvD-3fbDIxqRjR-gGzILLiMlOBMDuhh.j0ChIIau7KFjmoJ_
+
+15/11: https://zoom.us/rec/share/KVwVuzR1m7y92Phi9j4M6K8O8NdG4bxF_6XTcmMVrmX5qfFEIojxlXFWC8lF1kBT.vFMom1l5QKmcJQzX
+
+16/11: https://zoom.us/rec/share/UGnK8uab9D-gm7Q0yfccKs__MQAYXNCV16Sjduxo72RGOYCJTl1ERmywT6JmruyY.0iM49DoI-GGusYIx
+
+17/11: https://zoom.us/rec/share/GC2jEEibYnL8z5aYozFgJhqGwUv7dIWqYB15XS01-uAveF9mLIxquSaqxawakeGm.agab-oSMRs7LOL5o
+
+18/11: https://zoom.us/rec/share/k73mFScjVkaGRti4Ppln-7u9uYKJsfcxxZgdpoWd3c78EDW6RKkpYOWCqwiAU37A.Kr0K_slSvxI9FMJf
+
+oct ca
+19/11: https://zoom.us/rec/share/PGhbMJLe_vmzvshqA2N6zdTKzKe2k6ePRwnDZctPgzujPPXvRrlkEm3zdVA8VinM.kUTJNpv-v_axSRmL
