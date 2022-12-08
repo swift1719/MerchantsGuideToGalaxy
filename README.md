@@ -74,6 +74,29 @@ Percetage ->
 02/12 : https://zoom.us/rec/share/uLRBzpFE_IbwQECU3ns2wkfenl7sJ3DXdV_LTColNrzKB-FJ6Ux_B1_M7Df1AatF.wzzRQUDBJBlDKZYX
 
 
+## Geography
+
+21/11 : https://zoom.us/rec/share/TPs6j2yTA4rSGGdDl0BCQRpMEr87_19TM8PIeZoJJv1acpYxUHugQdfNwnQbwYeW.MdxMd2xL_q5hYb2q
+
+22/11 : https://zoom.us/rec/share/Zx5cz5UsEu5qPvQsxRgl2t2EMPswaqCn_dXPUTadlSgpyvVERDEHB-kfqCafhGzP.ZRpuAVQXiIDt9Dlv
+
+24/11 : https://zoom.us/rec/share/PYcDvahjkBFnGdNK6BVICDpeXCWGriH6EqnsTegjktqxxcyBDoRYdOiyGk9Aoy5T.qA0KC4HCgOk4cAv-
+
+25/11 : https://zoom.us/rec/share/3AI2aXopLNPfuv0Xt3oQny-G2Cdvi1lYSFxODCK5SegKLtk_dViMNo8QAOTeTDPr.eKh2ZdO4h50lrVdh
+
+26/11 : ca Octo'22
+
+28/11 : https://zoom.us/rec/share/5MaLWSJ_UGL6vf-iGbm75atZgVxs-uOCoDytR3lxyLNTUpfBKBVPByh8qibJh1gU.VWeCxnXuCX1shHam
+
+29/11 : https://zoom.us/rec/share/qso2P-zPOrDh4UUxlpY3Uo380SSau51CP6fFcozywU-5KQUK4QAz-PIrG5D9BVu3.HnupNKE_E5PYxFMZ
+
+30/11 : https://zoom.us/rec/share/Dg-44h1Bn0k0yKx3AU0bpMmSawyfKN_VdTQqktvEkLlAdk_k9IycrJbbaPLRPeHp.R1VwipXAArpQ2B7C
+
+01/12 : https://zoom.us/rec/share/guWNa_vWKciOgNLatInnZdGX3MHN7hpoodkRWEK279h7ib3-Q2c7SBAR_ug236Qb.xqfQJmRlW6PGpxbQ
+
+02/12 : https://zoom.us/rec/share/8xesaY3_HbyTT49ExOpMxGHUVZUWTsTpowubTUlXLhKKvOgcSWtqoutYxVBSqyyZ.kfIhMuODAoaIzKm9
+
+
 ## English 
 
 27/10: https://zoom.us/rec/share/lNVb6aRSNdzcSNq25UpTbekeiZd1v3zdGPwJWBwwLTHniODdHtWxDqazcOaiU5_K.GBWI4hcaWlAsFXk6
