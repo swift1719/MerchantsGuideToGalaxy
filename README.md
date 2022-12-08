@@ -49,13 +49,29 @@ Original Problem Link : [Merchants Guide To The Galaxy](https://www.careercup.co
 
 ## Maths 
 
-14/11: https://zoom.us/rec/share/apJ61fGUuwGzfA-WfgeCqrzrH0DPXzNtOMi-ZPGwIvwJFoUj5vsKg7vRm-6xR1Oo.3lVGGRLR4EkaD8nG
+Algera ->
 
-17/11: https://zoom.us/rec/share/7Q4SNoNR0arwDHbsVp7MAWZ43Hfd2XfkKu-M1bJDbOd0WF9psvU2DICW9jnOAOyx.CfP75lu4bB9R0X0y
+21/11 : https://zoom.us/rec/share/yu2e1MArnmGP7d144IFcmgonAelR7EyFgaLs61H3LsMz1bxlnzLlnxTVuEieRj76.HJ8nr2wrRmDJgx3D
 
-18/11: https://zoom.us/rec/share/yV3iDBIyXo3t5JGzs1NT2LOX8ucBm1EwubT79EDZGVwWgL5NQoiAUV51w_FivkAE.v-Yrgp_ORqCmDQSK
+22/11 : https://zoom.us/rec/share/Ls-arbicQwrYVFytPz7g3RqGdfbbD4w4-ZMK_Og8wHMRYKhXTBOEWBHOGhjRBSQY.r05xxUUI1JVE-W4W
 
-19 /11: https://zoom.us/rec/share/-H11W6DY7q4v6TcDt4EGgFT52rLiyj0MDkjgVkoLnaNrKp3382V-Zs1P4BILVHwu.I2KIAdw1tUxCpuuC
+23/11 : https://zoom.us/rec/share/hHt75XHTVquRABLrpHuKqYM4wv7JTZm4VwWJLdcpi9gITeJgvDfo12Th3AUHwpY.o-syq82qn3CoajUR
+
+24/11 : https://zoom.us/rec/share/KGWTYPOIhZkezJ0rzlg12HV8r4TT16yPqvr3Sh6enEhKrbXEPHphVZXFE_K5qUOq.vqxaEULrvFXZiqED
+
+25/11 : https://zoom.us/rec/share/gjGZWYpY8OpwQ-1jSs6vv-ozt_zVcJi1c0-FdGLnlbvX8v9wlZXXZFY43X7Ll0gE.MKkrFjXYeHdF5iRX
+
+28/11 : https://zoom.us/rec/share/CyX-X1GPMuMbpoeXKNP0hN3Ijw2k0tGGKSrZjAHgJZ95bRlitLzwBz3IPSRPJXIE.KvTCZwDptlLuboXw
+
+29/11 : https://zoom.us/rec/share/teMaWV78-OHDYYkZfDUGAY4JGpBIHKYywk6Br6GW4Jt893-gUh5x8JGB-mfQnpD-.S7l0Y80KXkU7Z5Ew
+
+Percetage ->
+
+30/11 : https://zoom.us/rec/share/JZj0OKuDs4pz8mqrzah831-dzW1hzIdQ33bNHaXzvLqm7XmUCZFwRlEFKSyyWGk.tgRHKBZjl1uQLIgs
+
+01/12 : https://zoom.us/rec/share/iygv84VvoQ2EB6urVMW5i5mFWC5uiuAKIFRKFwptngteUyI1zekDDhU68OA1I3vf.DGeEBU6vCOyEar0E
+
+02/12 : https://zoom.us/rec/share/uLRBzpFE_IbwQECU3ns2wkfenl7sJ3DXdV_LTColNrzKB-FJ6Ux_B1_M7Df1AatF.wzzRQUDBJBlDKZYX
 
 
 ## English 
